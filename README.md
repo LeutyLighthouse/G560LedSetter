@@ -13,7 +13,11 @@ It does this by detaching the current kernel driver, then setting the colours gi
 
 ## Setup & Installation
 
-To set up the program you simply need to run setup.sh like this:
+To set up the program you simply need to go into the build folder and run setup.sh like this:
+```
+cd ./build
+```
+
 ```
 ./setup.sh
 ```
